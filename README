@@ -1,1 +1,4 @@
 Implementation of ``Learn You Some Erlang for Great Good'' by Fred Hébert
+
+Utilities:
+> make clean # remove all .beam files
